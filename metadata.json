@@ -1,0 +1,5 @@
+{
+  "name": "VeloTrivia AI Agent",
+  "description": "An automated AI agent that generates and schedules daily bicycle-themed trivia and fun facts for community social media groups.",
+  "requestFramePermissions": []
+}
